@@ -1,0 +1,3 @@
+"""
+JobApplicationAgent package initialization.
+"""

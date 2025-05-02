@@ -1,0 +1,3 @@
+"""
+Application simulator module initialization.
+"""

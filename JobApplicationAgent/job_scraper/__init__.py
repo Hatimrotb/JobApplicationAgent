@@ -1,0 +1,3 @@
+"""
+Job scraper module initialization.
+"""
