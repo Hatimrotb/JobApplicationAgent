@@ -9,6 +9,7 @@ import json
 import streamlit as st
 import pandas as pd
 from datetime import datetime
+from dotenv import load_dotenv
 from streamlit_app import resume_page, jobs_page, matching_page, cover_letter_page, applications_page
 from streamlit_app.utils import load_data, save_data, initialize_session_state
 
